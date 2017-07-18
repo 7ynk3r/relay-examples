@@ -31,6 +31,26 @@ const todoIdsByUser = {
 let nextTodoId = 0;
 addTodo('Taste JavaScript', true);
 addTodo('Buy a unicorn', false);
+addTodo('Taste JavaScript', true);
+addTodo('Buy a unicorn', false);
+addTodo('Taste JavaScript', true);
+addTodo('Buy a unicorn', false);
+addTodo('Taste JavaScript', true);
+addTodo('Buy a unicorn', false);
+addTodo('Taste JavaScript', true);
+addTodo('Buy a unicorn', false);
+addTodo('Taste JavaScript', true);
+addTodo('Buy a unicorn', false);
+addTodo('Taste JavaScript', true);
+addTodo('Buy a unicorn', false);
+addTodo('Taste JavaScript', true);
+addTodo('Buy a unicorn', false);
+addTodo('Taste JavaScript', true);
+addTodo('Buy a unicorn', false);
+addTodo('Taste JavaScript', true);
+addTodo('Buy a unicorn', false);
+addTodo('Taste JavaScript', true);
+addTodo('Buy a unicorn', false);
 
 export function addTodo(text, complete) {
   const todo = new Todo();
